@@ -93,7 +93,10 @@ streamdock-proyectos/
 ├── button-designs/
 └── spotify-control/
 ```
-Estado general
+
+## Estado general
+
+```txt
 MetaTrader Plugin:   En desarrollo
 Magic 8 Ball:        Pendiente
 Volume Control:      Pendiente
@@ -108,17 +111,9 @@ Documentar escenas y perfiles.
 Crear versiones descargables.
 Agregar capturas del Stream Dock funcionando.
 Autor
-
 Erick Alcántara
 Estudiante de Ingeniería en Sistemas Computacionales
 Intereses: programación, automatización, electrónica, plugins, trading tools y desarrollo de aplicaciones.
-
 Nota
-
 Este repositorio está en desarrollo y se utiliza con fines educativos, de experimentación y creación de proyectos personales para Stream Dock M18.
-
-
-Mensaje para el commit:
-
-```txt
-Mejorar README principal del laboratorio Stream Dock
+```
