@@ -1,0 +1,21 @@
+{
+  "name": "streamdock-mt4-bridge",
+  "version": "0.1.0",
+  "description": "Local Node.js bridge to communicate Stream Dock M18 with MetaTrader 4 using Windows Named Pipes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test:ping": "node test-command.js PING",
+    "test:status": "node test-command.js STATUS"
+  },
+  "keywords": [
+    "stream-dock",
+    "metatrader",
+    "mt4",
+    "nodejs",
+    "named-pipes",
+    "trading-tools"
+  ],
+  "author": "Erick Alcántara",
+  "license": "UNLICENSED"
+}
